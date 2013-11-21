@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1385013210 source:c:\users\nuria\desktop\programacion 2\ii parcial\pruebas\proyecto5\main.cpp
+	<conio.h>
+	<stdio.h>
+	<iostream>
+
